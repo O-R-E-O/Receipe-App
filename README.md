@@ -1,6 +1,5 @@
 # Receipe-App
 Receipe-App
-This is a College Assisgnment! So please if you take reference make sure you Learn! Enjoy.
 
 Receipe-App is the application which helps you lot to easily make and share the receipes all round the community. And also watch the shared receipes to be cooked!
 

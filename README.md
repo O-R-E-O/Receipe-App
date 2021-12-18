@@ -2,6 +2,10 @@
 Receipe-App
 This is a College Assisgnment! So please if you take reference make sure you Learn! Enjoy.
 
+Receipe-App is the application which helps you lot to easily make and share the receipes all round the community. And also watch the shared receipes to be cooked!
+This application was made so that people won't need to go buy receipe books or even take your neighbour's time so to let her share there receipe, just ask them to upload their Receipe on Receipe and its DONE!
+This Application was built in KOTLIN language using android studio, with the help of FIREBASE DATABASE. We can have backend support using the DATABASE.
+
 ![image](https://user-images.githubusercontent.com/95482512/145794008-188b51e1-3a91-4fc7-af5f-5f9914c5e2c6.png)
 ![image](https://user-images.githubusercontent.com/95482512/145794054-8beadfbd-7ae1-4945-82a6-6f60668e8c6c.png)
 
